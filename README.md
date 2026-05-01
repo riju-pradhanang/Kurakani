@@ -1,4 +1,4 @@
-# Kurakani 🌟
+# Kurakani 💬
 
 > A premium, production-ready real-time messaging platform built with the MERN stack.  
 > Features: real-time chat, voice messages, image sharing, 1:1 voice & video calls (WebRTC), friends system, online status, typing indicators, and a stunning glassmorphic dark UI.
