@@ -1,9 +1,26 @@
-# Kurakani 💬
+<p align="center"> 
+<img width="332" height="336" alt="kurakani" src="https://github.com/user-attachments/assets/ecd67f68-5c92-4f31-b937-54fe65722dea" />
+</p
 
-> A premium, production-ready real-time messaging platform built with the MERN stack.  
-> Features: real-time chat, voice messages, image sharing, 1:1 voice & video calls (WebRTC), friends system, online status, typing indicators, and a stunning glassmorphic dark UI.
+
+<!-- 🔥 Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=2500&color=FF008C&center=true&vCenter=true&width=700&lines=Kurakani" />
+</p>
+
+<!-- 💎 Tagline -->
+<p align="center">
+  <b>A premium, production-ready real-time messaging platform built with the MERN stack.</b>
+</p>
+
+<!-- 📌 Description -->
+<p align="center">
+  Real-time chat • Voice messages • Image sharing • 1:1 voice & video calls (WebRTC)  
+  Friends system • Online status • Typing indicators • Glassmorphic dark UI
+</p>
 
 ---
+
 
 ## Tech Stack
 
