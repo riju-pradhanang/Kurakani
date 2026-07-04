@@ -331,7 +331,7 @@ io.on('connection', (socket) => {
 
 const PORT = process.env.PORT || 5000;
 httpServer.listen(PORT, () => {
-  console.log(`\n🚀 AuraChat Server running on port ${PORT}`);
+  console.log(`\n🚀 Kurakani Server running on port ${PORT}`);
   console.log(`   Environment: ${process.env.NODE_ENV}`);
   console.log(`   Client URL:  ${process.env.CLIENT_URL}`);
   console.log(`   API Base:    http://localhost:${PORT}/api\n`);

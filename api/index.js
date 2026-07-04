@@ -53,7 +53,7 @@ app.use('/api/messages', require('../backend/routes/messages'));
 
 // Health check
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'OK', message: 'AuraChat API is running 🚀', timestamp: new Date() });
+  res.json({ status: 'OK', message: 'Kurakani API is running 🚀', timestamp: new Date() });
 });
 
 // Socket.io Real-Time Logic

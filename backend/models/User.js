@@ -34,7 +34,7 @@ const userSchema = new mongoose.Schema(
     },
     status: {
       type: String,
-      default: 'Hey there! I am using AuraChat.',
+      default: 'Hey there! I am using Kurakani.',
       maxlength: 140,
     },
     bio: {
