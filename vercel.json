@@ -1,9 +1,10 @@
 {
-  "framework": "services",
-  "experimentalServices": [
+  "buildCommand": "cd frontend && npm install && npm run build",
+  "outputDirectory": "frontend/dist",
+  "rewrites": [
     {
-      "name": "api",
-      "src": "api"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
