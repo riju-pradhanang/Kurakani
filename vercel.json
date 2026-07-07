@@ -1,0 +1,9 @@
+{
+  "framework": "services",
+  "experimentalServices": [
+    {
+      "name": "api",
+      "src": "api"
+    }
+  ]
+}
